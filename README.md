@@ -32,8 +32,9 @@ $ gcould-sdk
 - Google cloud function has been implemented to serve as api endpoint.
 - Deployment done on google cloud platform by using `gcloud-sdk`.
 - Below is the Api endpoint for the hosted functions.
-```
-https://us-central1-fluted-magpie-396811.cloudfunctions.net/gcp-blogpost-func
+```bash
+# url
+https://us-central1-fluted-magpie-396811.cloudfunctions.net/gcp-blogpost-func/posts
 ``` 
 - Api Details Can be found below
 
