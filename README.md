@@ -112,6 +112,16 @@ https://us-central1-fluted-magpie-396811.cloudfunctions.net/gcp-blogpost-func/po
         "author": "James",
         "publicationDate": "2023-08-23T18:37:57.962Z"}'
     ``` 
+
+    #### Request body
+    ```bash
+    {
+        "title": "basketball",
+        "content": "It is a very intensive game",
+        "author": "James",
+        "publicationDate": "2023-08-23T18:37:57.962Z"
+    }
+    ```
     #### Response
     ```bash
     # Success
@@ -139,6 +149,14 @@ https://us-central1-fluted-magpie-396811.cloudfunctions.net/gcp-blogpost-func/po
         "title": "tennis",
         "author": "Federer"}'
     ``` 
+
+    #### Request Body
+    ```bash
+    {
+        "title": "tennis",
+        "author": "Federer"
+    }
+    ```
     #### Response
     ```bash
     # Success
